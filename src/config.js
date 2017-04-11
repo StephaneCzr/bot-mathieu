@@ -1,0 +1,5 @@
+process.env.PORT = '5000'
+process.env.REQUEST_TOKEN = '68d387d29743b240b88844ec947b6577'
+process.env.LANGUAGE = 'en'
+process.env.GITHUB_TOKEN = 'fd72e39837c843fe7a00818d75e471d21bccd9fa'
+process.env.GITHUB_USERNAME = 'MatthieuPeyrot'
